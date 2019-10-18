@@ -1,0 +1,16 @@
+[
+{
+  "modid": "obamium",
+  "name": "Obamium",
+  "description": "Adds Obamium ore, tools and armour to Minecraft.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/decoloured/obamium",
+  "updateUrl": "",
+  "authorList": ["decoloured"],
+  "credits": "Obama, for being cool and awesome",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

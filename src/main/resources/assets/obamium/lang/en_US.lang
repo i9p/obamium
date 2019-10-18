@@ -1,0 +1,23 @@
+## items
+# materials
+item.obamium_ingot.name=Obamium Ingot
+
+# tools
+item.obamium_sword.name=Obamium Sword
+item.obamium_pickaxe.name=Obamium Pickaxe
+item.obamium_axe.name=Obamium Axe
+item.obamium_shovel.name=Obamium Shovel
+item.obamium_hoe.name=Obamium Hoe
+
+# armor
+item.obamas_sunglasses.name=Obama's Sunglasses
+item.obamas_shirt.name=Obama's Shirt
+item.obamas_pants.name=Obama's Pants
+item.obamas_shoes.name=Obama's Shoes
+
+## blocks
+tile.obamium_block.name=Block Of Obamium
+tile.obamium_ore.name=Obamium Ore
+
+## gui
+itemGroup.tabObamium=Obamium Mod
